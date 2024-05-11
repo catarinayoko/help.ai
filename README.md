@@ -1,2 +1,2 @@
 # help.ai
-Um chatbot com o objetivo de ajudar pessoas a encontrar instituições e ações sociais confiáveis para fazer doações
+Help.ai é um chatbot criado para ajudar pessoas a encontrar instituições que oferece serviçoes de saúde e educacioais gratuitos perto de casa. 
